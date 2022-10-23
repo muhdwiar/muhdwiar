@@ -6,7 +6,7 @@
 <p align="justify">My name is Dwi, I recently joined an immersive backend engineering program from Alterra Academy. I learned how to create a REST-ful API with Golang, Echo Framework, GORM, and deployment process to AWS or GCP. I love to explore new knowledge and test my coding skills!<p>
 
 <p>
-Check my thesis project <a href="https://github.com/muhdwiar/SIBI-Translator-System">here</a>.
+Check my thesis project showcase <a href="https://github.com/muhdwiar/SIBI-Translator-System">here</a>.
 In this project, my team members and I created a system for translating sign language. This system is built with Python language.</p>
 
 ## My Skill
